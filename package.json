@@ -1,0 +1,27 @@
+{
+  "name": "simple-html-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "@types/node": "14.14.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangbo0216/simple-html-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangbo0216/simple-html-parser/issues"
+  },
+  "homepage": "https://github.com/jiangbo0216/simple-html-parser#readme"
+}
